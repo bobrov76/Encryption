@@ -1,0 +1,28 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OpenPop.NET/2.0.6.1114": {
+        "runtime": {
+          "lib/net40/OpenPop.dll": {
+            "assemblyVersion": "2.0.6.1114",
+            "fileVersion": "2.0.6.1114"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenPop.NET/2.0.6.1114": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LoBqwiWXKBprJ4+8NBf9duSjgsYHNb3prtN3pD9aAPOFCBSsBjFxxhJEjAPFHbk8yLuyH1NGDMt3+9ZHo2zM0A==",
+      "path": "openpop.net/2.0.6.1114",
+      "hashPath": "openpop.net.2.0.6.1114.nupkg.sha512"
+    }
+  }
+}

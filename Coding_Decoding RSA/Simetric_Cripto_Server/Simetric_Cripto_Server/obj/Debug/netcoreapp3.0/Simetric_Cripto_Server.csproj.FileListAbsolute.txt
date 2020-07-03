@@ -1,0 +1,76 @@
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.csprojAssemblyReference.cache
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server_MarkupCompile.cache
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server_MarkupCompile.lref
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.exe
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.deps.json
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.runtimeconfig.json
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.runtimeconfig.dev.json
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.dll
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.pdb
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\OpenPop.dll
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.g.resources
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.AssemblyInfoInputs.cache
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.AssemblyInfo.cs
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.csproj.CopyComplete
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.dll
+C:\Users\User_Vadim\Desktop\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.pdb
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.exe
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.deps.json
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.runtimeconfig.json
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.runtimeconfig.dev.json
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.dll
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.pdb
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\OpenPop.dll
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.csprojAssemblyReference.cache
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server_MarkupCompile.cache
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server_MarkupCompile.lref
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.g.resources
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.AssemblyInfoInputs.cache
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.AssemblyInfo.cs
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.csproj.CopyComplete
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.dll
+C:\Users\User_Vadim\Desktop\Coding_Decoding\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.pdb
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.exe
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.deps.json
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.runtimeconfig.json
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.runtimeconfig.dev.json
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.dll
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.pdb
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\OpenPop.dll
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.csprojAssemblyReference.cache
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server_MarkupCompile.cache
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server_MarkupCompile.lref
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.g.resources
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.AssemblyInfoInputs.cache
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.AssemblyInfo.cs
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.csproj.CopyComplete
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.dll
+C:\Users\User_Vadim\Desktop\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.pdb
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.exe
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.deps.json
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.runtimeconfig.json
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.runtimeconfig.dev.json
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.dll
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\Simetric_Cripto_Server.pdb
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\bin\Debug\netcoreapp3.0\OpenPop.dll
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.csprojAssemblyReference.cache
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\App.g.cs
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server_MarkupCompile.cache
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server_MarkupCompile.lref
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.g.resources
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.AssemblyInfoInputs.cache
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.AssemblyInfo.cs
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.csproj.CopyComplete
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.dll
+D:\Учеба\4 Курс\Основы информационной безопасности\Ассиметричное шифрование\Coding_Decoding RSA\Simetric_Cripto_Server\Simetric_Cripto_Server\obj\Debug\netcoreapp3.0\Simetric_Cripto_Server.pdb
